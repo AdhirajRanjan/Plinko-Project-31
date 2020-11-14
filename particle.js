@@ -3,6 +3,7 @@ class Particle {
     {
       var options = 
       {
+        isStatic:false,
         restitution:0.4
       }
       this.r=r
