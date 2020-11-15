@@ -65,6 +65,8 @@ for (var j = 0; j < particles.length; j++)
   }
 
   ground.display()
+
+  Engine.update(engine)
   drawSprites();
 }
 
